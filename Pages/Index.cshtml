@@ -1,0 +1,259 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<body>
+
+    <div class="bin">
+
+        <a class="btn btn-outline-danger" asp-area="" asp-page="/Bookings/Create"> <b> Book Your Flight Now </b></a></>
+    </div>
+
+    <img width="1135.5" height="650" src="~/images/bc.png" style="margin-left:-100px" />
+    <br />
+    <br />
+
+
+    <br>
+    <h2> <em style="color:rgb(255, 55, 55)"> We offer best deals tour packages  </em> </h2>
+
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+
+                <div class="grid grid-card">
+
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/wdc.webp" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Washnington DC MS</h5>
+                                <p class="card-text">Travel Washington DC at best flight rates compared to the market</p>
+                                <a href="https://washington.org/" class="btn btn-outline-danger"> Go W DC..!</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/lv.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Las Vegas</h5>
+                                <p class="card-text">Travel Las Vegas at best flight rates compared to the market</p>
+                                <a href="https://www.visitlasvegas.com/" class="btn btn-outline-danger"> Go Las Vegas..!</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/NY.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">New York</h5>
+                                <p class="card-text"> Travel New York at best flight rates compared to the market</p>
+                                <a href="https://www.nyctourism.com/" class="btn btn-outline-danger"> Go New York..! </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="carousel-item">
+                <div class="grid grid-card">
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/mia.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Miami</h5>
+                                <p class="card-text">Travel Miami at best flight rates compared to the market.</p>
+                                <a href="https://www.miamiandbeaches.com/" class="btn btn-outline-danger"> Go Miami..!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/cgo.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Chicago</h5>
+                                <p class="card-text">Travel Chicago at best flight rates compared to the market.</p>
+                                <a href="https://www.choosechicago.com/things-to-do/tours-attractions/" class="btn btn-outline-danger"> Go Chicago..!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/sfc.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">San Francisco</h5>
+                                <p class="card-text">Travel San Francisco at best flight rates compared to the market.</p>
+                                <a href="https://www.sftravel.com/" class="btn btn-outline-danger"> Go San Francisco..!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="grid grid-card">
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/sea.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Seattle</h5>
+                                <p class="card-text">Travel Seattle at best flight rates compared to the market.</p>
+                                <a href="https://visitseattle.org/" class="btn btn-outline-danger"> Go Seattle..!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/la.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Los Angeles</h5>
+                                <p class="card-text">Travel Los Angeles at best flight rates compared to the market.</p>
+                                <a href="https://www.discoverlosangeles.com/" class="btn btn-outline-danger"> Go LA..!</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="card" style="width: 18rem;">
+                            <img src="~/images/hon.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Honolulu - Oahu</h5>
+                                <p class="card-text">Travel Honolulu at best flight rates compared to the market.</p>
+                                <a href="https://travel.usnews.com/Honolulu_Oahu_HI/" class="btn btn-outline-danger"> Go Honolulu..!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <br />
+    <br />
+
+    <div class="stats">
+        <div class="text-center text-light">
+            <h2 class="text-center"> <em style="color:rgb(255, 55,55)"> Lindner AirSpace </em> </h2>
+            <div class="grid stats1">
+                <div class="grid-item">
+                    <h3 class="label Flights"> <b> @Model.TotalFlights Flights</b></h3>
+                </div>
+                <div class="grid-item">
+                    <h3 class="label Courses"><b> @Model.TotalBookings Bookings </b></h3>
+                </div>
+                <div class="grid-item">
+                    <h3 class="label Instructors"> <b> @Model.TotalUsers Users</b> </h3>
+                </div>
+                <div class="grid-item">
+                    <h3 class="label Certifications"> <b> @Model.TotalAssists Assists </b> </h3>
+                </div>
+                <div class="grid-item">
+                    <h3 class="label Universities"> <b> @Model.TotalPayments Payments </b> </h3>
+                </div>
+                <br />
+                <br />
+
+            </div>
+
+            <br />
+            <br />
+
+            <h5>We now have these many Lindner family members in our airspace and still growing for better tomorrow. </h5>
+            <h3> <em style="color:rgb(255, 55,55)"> Thank you for giving us chance to  </em> </h3>
+            <h2>  <em style="color:rgb(255, 55,55)"> Fly your Dreams..! </em></h2>
+            <br />
+
+
+        </div>
+    </div>
+    <br />
+
+    <h2 style="color:rgb(255, 55,55)"> Our Services </h2>
+
+    <p>
+        Lindner Airlines was founded more than 95 years ago and has a deep-rooted history leading
+        the industry through innovation and firsts, including hiring the first Black U.S.
+        commercial airline pilot, hiring the first female U.S. commercial airline pilot,
+        launching the first loyalty program of any major carrier and becoming the first
+        airline to introduce airport lounges.
+    </p>
+
+    <p>
+        At Lindner
+        Airlines, our purpose is to care for people on life’s journey. Together with our
+        American Eagle regional partners, we offer thousands of flights daily to more
+        than 350 destinations in more than 60 countries. American has hubs in Charlotte,
+        Chicago, Dallas-Fort Worth, Los Angeles, Miami, New York, Philadelphia, Phoenix
+        and Washington, D.C.
+    </p>
+
+    <div class="p-2">
+        <div class="text-center">
+            <h2>We collaborate with <em style="color:rgb(255, 55, 55)">200+ leading Companies as their Trusted airline partner </em> </h2>
+
+            <br />
+            <br />
+
+            <div class="grid">
+                <div>
+                    <img src="~/images/uclogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/Googlelogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/Stanfordlogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/Amazonlogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/teslamotors.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/Metalogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/IBMlogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/8451logo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/NASALogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/AppleLogo.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/MSFT.png" class="card-img-top" alt="...">
+                </div>
+                <div>
+                    <img src="~/images/Intellogo.png" class="card-img-top" alt="...">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <br />
+    <br />
+
+
+
+</body>
+
+
+

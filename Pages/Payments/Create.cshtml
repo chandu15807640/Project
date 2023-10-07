@@ -1,0 +1,53 @@
+@page
+@model LindnerAirlines.Pages.Payments.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="bgim">
+
+    <h1>Create a Payment</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Payment.Amount" class="control-label"></label>
+                    <input asp-for="Payment.Amount" class="form-control" />
+                    <span asp-validation-for="Payment.Amount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Payment.PaymentMethod" class="control-label"></label>
+                    <input asp-for="Payment.PaymentMethod" class="form-control" />
+                    <span asp-validation-for="Payment.PaymentMethod" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Payment.TransactionId" class="control-label"></label>
+                    <input asp-for="Payment.TransactionId" class="form-control" />
+                    <span asp-validation-for="Payment.TransactionId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Payment.UserId" class="control-label"></label>
+                    <select asp-for="Payment.UserId" class="form-control" asp-items="ViewBag.UserId"></select>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a class="btn  btn-sm btn-warning" asp-page="Index">Back to List</a>
+    </div>
+    <br />
+    <br />
+    <br />
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

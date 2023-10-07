@@ -1,0 +1,84 @@
+@page
+@model LindnerAirlines.Pages.Bookings.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="bgim"> 
+    <h1>Create Your New Booking</h1>
+    <div class="p-2"> 
+        <p>
+            <a class="btn btn-sm btn-primary" asp-page="Create">Create New</a>
+        </p>
+        <table class="table">
+
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].PNR)
+
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].PassengerName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].Source)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].Destination)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].BookingDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].SeatClass)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Booking[0].Flight)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Booking)
+                {
+                    <tr>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.PNR) </b>
+                        </td>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.PassengerName) </b>
+                        </td>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.Source) </b>
+                        </td>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.Destination) </b>
+                        </td>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.BookingDate) </b>
+                        </td>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.SeatClass) </b>
+                        </td>
+                        <td>
+                            <b> @Html.DisplayFor(modelItem => item.Flight.FlightNumber) </b>
+                        </td>
+                        <td>
+                            <b>
+                                <a class="btn  btn-sm btn-outline-primary" asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                                <a class="btn  btn-sm btn-outline-primary" asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                                <a class="btn  btn-sm btn-outline-danger" asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                            </b>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+
+
+        </table>
+    </div>
+    
+</div>

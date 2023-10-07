@@ -1,0 +1,102 @@
+﻿@page
+@model LindnerAirlines.Pages.FlightSearchModel
+
+@{
+    ViewData["Title"] = "FlightSearch";
+}
+
+
+
+<p>
+    <html>
+    <head>
+
+    </head>
+    <body>
+        <h1>FlightSearch</h1>
+
+
+
+        <div class="container">
+            <div class="search">
+                <div class="row">
+                    <div class="col">
+
+                        <form method="get" class="form-inline">
+                            <div class="form-group mb-2 search-1">
+                                <input asp-for="Source" class="form-control mr-sm-2" placeholder="Source" />
+                            </div>
+                            <div class="form-group mb-2 search-2">
+                                <input asp-for="Destination" class="form-control mr-sm-2" placeholder="Destination" />
+                            </div>
+                            <button type="submit" class="btn btn-primary mb-2">Search</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    @if (Model.SearchCompleted)
+                    {
+                        if (Model.Flight.Any())
+                        {
+                            @foreach (var item in Model.Flight)
+                            {
+                                <div class="col-md-4 mb-4">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Flight Number: @item.FlightNumber</h5>
+                                            <p class="card-text">Source: @item.Source</p>
+                                            <p class="card-text">Destination: @item.Destination</p>
+                                           
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p>No flights found.</p>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Flight[0].FlightNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flight[0].Source)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Flight[0].Destination)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Flight) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Source)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,51 @@
+@page
+@model LindnerAirlines.Pages.Flights.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="bgim">
+    <h1>List of Operating Flights</h1>
+        <p>
+        <a class="btn  btn-sm btn-primary" asp-page="Create">Create New</a>
+    </p>
+    <div class="p-2">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Flight[0].FlightNumber)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Flight[0].Source)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Flight[0].Destination)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Flight)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FlightNumber)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Source)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Destination)
+                        </td>
+                        <td>
+                            <a class="btn  btn-sm btn-outline-primary" asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a class="btn  btn-sm btn-outline-primary" asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                            <a class="btn  btn-sm btn-outline-danger" asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
