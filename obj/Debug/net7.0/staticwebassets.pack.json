@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LindnerAirlines.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LindnerAirlines.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\8451.jpg",
+      "PackagePath": "staticwebassets\\images\\8451.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\8451logo.png",
+      "PackagePath": "staticwebassets\\images\\8451logo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Amazonlogo.png",
+      "PackagePath": "staticwebassets\\images\\Amazonlogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\AppleLogo.png",
+      "PackagePath": "staticwebassets\\images\\AppleLogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\BG.jpg",
+      "PackagePath": "staticwebassets\\images\\BG.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Bhargav.jpeg",
+      "PackagePath": "staticwebassets\\images\\Bhargav.jpeg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Google.jpg",
+      "PackagePath": "staticwebassets\\images\\Google.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Googlelogo.png",
+      "PackagePath": "staticwebassets\\images\\Googlelogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\IBM.jpg",
+      "PackagePath": "staticwebassets\\images\\IBM.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\IBMlogo.png",
+      "PackagePath": "staticwebassets\\images\\IBMlogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Intellogo.png",
+      "PackagePath": "staticwebassets\\images\\Intellogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\LA Clear.png",
+      "PackagePath": "staticwebassets\\images\\LA Clear.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\LA Top.png",
+      "PackagePath": "staticwebassets\\images\\LA Top.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\MSFT.png",
+      "PackagePath": "staticwebassets\\images\\MSFT.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Metalogo.png",
+      "PackagePath": "staticwebassets\\images\\Metalogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\NASALogo.png",
+      "PackagePath": "staticwebassets\\images\\NASALogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\NY.jpg",
+      "PackagePath": "staticwebassets\\images\\NY.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Nikhil.jpeg",
+      "PackagePath": "staticwebassets\\images\\Nikhil.jpeg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Stanford.jpg",
+      "PackagePath": "staticwebassets\\images\\Stanford.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\Stanfordlogo.png",
+      "PackagePath": "staticwebassets\\images\\Stanfordlogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\UM.jpg",
+      "PackagePath": "staticwebassets\\images\\UM.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\aplne.jpg",
+      "PackagePath": "staticwebassets\\images\\aplne.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\bc.png",
+      "PackagePath": "staticwebassets\\images\\bc.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\black.jpg",
+      "PackagePath": "staticwebassets\\images\\black.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\cgo.jpg",
+      "PackagePath": "staticwebassets\\images\\cgo.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\collab.png",
+      "PackagePath": "staticwebassets\\images\\collab.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\hon.jpg",
+      "PackagePath": "staticwebassets\\images\\hon.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\la.jpg",
+      "PackagePath": "staticwebassets\\images\\la.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\lv.jpg",
+      "PackagePath": "staticwebassets\\images\\lv.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\mia.jpg",
+      "PackagePath": "staticwebassets\\images\\mia.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\sea.jpg",
+      "PackagePath": "staticwebassets\\images\\sea.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\sfc.jpg",
+      "PackagePath": "staticwebassets\\images\\sfc.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\teslamotors.png",
+      "PackagePath": "staticwebassets\\images\\teslamotors.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\uc b.jpg",
+      "PackagePath": "staticwebassets\\images\\uc b.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\uc build.png",
+      "PackagePath": "staticwebassets\\images\\uc build.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\uc cbs.jpeg",
+      "PackagePath": "staticwebassets\\images\\uc cbs.jpeg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\uc logo.jpg",
+      "PackagePath": "staticwebassets\\images\\uc logo.jpg"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\ucbs.webp",
+      "PackagePath": "staticwebassets\\images\\ucbs.webp"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\uclogo.png",
+      "PackagePath": "staticwebassets\\images\\uclogo.png"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\images\\wdc.webp",
+      "PackagePath": "staticwebassets\\images\\wdc.webp"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\COLLEGE\\Web\\project0410 (1)\\project0410\\LindnerAirlines\\LindnerAirlines\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LindnerAirlines.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LindnerAirlines.props",
+      "PackagePath": "build\\LindnerAirlines.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LindnerAirlines.props",
+      "PackagePath": "buildMultiTargeting\\LindnerAirlines.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LindnerAirlines.props",
+      "PackagePath": "buildTransitive\\LindnerAirlines.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

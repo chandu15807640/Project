@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LindnerAirlines
+build_property.RootNamespace = LindnerAirlines
+build_property.ProjectDir = D:\COLLEGE\Web\project0410 (1)\project0410\LindnerAirlines\LindnerAirlines\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\COLLEGE\Web\project0410 (1)\project0410\LindnerAirlines\LindnerAirlines
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/About Us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQgVXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Assists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Assists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Assists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Assists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Assists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzaXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Bookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Bookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Bookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Bookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Bookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/FlightBookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0Qm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/FlightBookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0Qm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/FlightBookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0Qm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/FlightBookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0Qm9va2luZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/FlightBookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0Qm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/FlightSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0U2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Flights/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Flights/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Flights/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Flights/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Flights/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxpZ2h0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/OurTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Payments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Payments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Payments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Payments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/COLLEGE/Web/project0410 (1)/project0410/LindnerAirlines/LindnerAirlines/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-blaitci84s
